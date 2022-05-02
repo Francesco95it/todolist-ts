@@ -1,0 +1,22 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "createdAt": 1651238912742,
+        "title": "Buy milk",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "createdAt": 1651238812742,
+        "title": "Buy eggs",
+        "completed": false
+      },
+      {
+        "id": 3,
+        "createdAt": 1651238312742, 
+        "title": "Buy bread",
+        "completed": false
+      }
+    ]
+  }

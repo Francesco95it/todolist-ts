@@ -1,0 +1,22 @@
+.addtask {
+    position: fixed;
+    display: flex;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    &-plus {
+        margin: 0 auto 15px;
+        border-radius: 100px;
+        font-size: 75px;
+        width: 100px;
+        height: 100px;
+        border: none;
+        background: cornflowerblue;
+        box-shadow: 0 6px 6px 0 rgb(0 0 0 / 20%);
+        color: white;
+    }
+
+    &-modal {
+        width: 100%;
+    }
+}

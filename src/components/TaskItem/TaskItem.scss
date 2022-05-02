@@ -1,0 +1,17 @@
+.task {
+    font-size: 24px;
+    border-radius: 100px;
+    padding: 16px 20px;
+    box-shadow: 0 6px 6px 0px rgba(0,0,0,.1);
+    margin-bottom: 18px;
+    h5 {
+        margin: 0;
+        font-weight: 400;
+    }
+    &__completed {
+        h5 {
+            text-decoration: line-through;
+            color: grey;
+        }
+    }
+}
